@@ -1,7 +1,6 @@
 CMPUT 275 Project:
-Age of War in Space Rip-off
-Harley Vanselow, ID: 1388813
-Aaron Philips, ID: 1408127
+Age of War in Space 
+by Harley Vanselow and Aaron Philips
 
 
 Our project is a two player game, inspired by the flash browser game “Age of War”. The object of the game is for one of the two players to destroy the opposing base. This is achieved by spawning units with the keys indicated in the HUD( A, S, D, F and H, J, K, L). Each unit spawn has a certain cost, indicated below the unit icon, which is deducted from a player’s cash total after the player successfully spawns the unit. 
